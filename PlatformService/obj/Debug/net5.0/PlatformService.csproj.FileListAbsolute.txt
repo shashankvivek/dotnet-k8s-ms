@@ -63,3 +63,4 @@ E:\workspace\learning\dotnet_project\PlatformService\obj\Debug\net5.0\ref\Platfo
 E:\workspace\learning\dotnet_project\PlatformService\obj\Debug\net5.0\PlatformService.pdb
 E:\workspace\learning\dotnet_project\PlatformService\obj\Debug\net5.0\PlatformService.genruntimeconfig.cache
 E:\workspace\learning\dotnet_project\PlatformService\bin\Debug\net5.0\appsettings.Production.json
+E:\workspace\learning\dotnet_project\PlatformService\bin\Debug\net5.0\RabbitMQ.Client.dll
