@@ -39,3 +39,7 @@ E:\workspace\learning\dotnet_project\CommandsService\obj\Debug\net5.0\CommandsSe
 E:\workspace\learning\dotnet_project\CommandsService\obj\Debug\net5.0\CommandsService.genruntimeconfig.cache
 E:\workspace\learning\dotnet_project\CommandsService\bin\Debug\net5.0\appsettings.Production.json
 E:\workspace\learning\dotnet_project\CommandsService\bin\Debug\net5.0\RabbitMQ.Client.dll
+E:\workspace\learning\dotnet_project\CommandsService\bin\Debug\net5.0\Google.Protobuf.dll
+E:\workspace\learning\dotnet_project\CommandsService\bin\Debug\net5.0\Grpc.Core.Api.dll
+E:\workspace\learning\dotnet_project\CommandsService\bin\Debug\net5.0\Grpc.Net.Client.dll
+E:\workspace\learning\dotnet_project\CommandsService\bin\Debug\net5.0\Grpc.Net.Common.dll

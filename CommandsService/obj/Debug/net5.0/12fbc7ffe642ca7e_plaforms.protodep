@@ -1,0 +1,2 @@
+obj\Debug\net5.0\Protos/Plaforms.cs \
+obj\Debug\net5.0\Protos/PlaformsGrpc.cs: Protos/plaforms.proto
