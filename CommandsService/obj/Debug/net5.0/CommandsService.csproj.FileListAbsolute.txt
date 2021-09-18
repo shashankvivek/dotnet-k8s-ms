@@ -37,3 +37,5 @@ E:\workspace\learning\dotnet_project\CommandsService\obj\Debug\net5.0\CommandsSe
 E:\workspace\learning\dotnet_project\CommandsService\obj\Debug\net5.0\ref\CommandsService.dll
 E:\workspace\learning\dotnet_project\CommandsService\obj\Debug\net5.0\CommandsService.pdb
 E:\workspace\learning\dotnet_project\CommandsService\obj\Debug\net5.0\CommandsService.genruntimeconfig.cache
+E:\workspace\learning\dotnet_project\CommandsService\bin\Debug\net5.0\appsettings.Production.json
+E:\workspace\learning\dotnet_project\CommandsService\bin\Debug\net5.0\RabbitMQ.Client.dll
