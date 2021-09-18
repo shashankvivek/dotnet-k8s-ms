@@ -16,7 +16,7 @@ namespace PlatformService.SyncDataServices
             _mapper = mapper;
         }
 
-        public override Task<PlatformResponse> GetAllPLatforms(GetAllRequest request, ServerCallContext context)
+        public override Task<PlatformResponse> GetAllPlatforms(GetAllRequest request, ServerCallContext context)
         {
             var response = new PlatformResponse();
             var platforms = _repository.GetAllPlatforms();
