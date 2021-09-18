@@ -64,3 +64,10 @@ E:\workspace\learning\dotnet_project\PlatformService\obj\Debug\net5.0\PlatformSe
 E:\workspace\learning\dotnet_project\PlatformService\obj\Debug\net5.0\PlatformService.genruntimeconfig.cache
 E:\workspace\learning\dotnet_project\PlatformService\bin\Debug\net5.0\appsettings.Production.json
 E:\workspace\learning\dotnet_project\PlatformService\bin\Debug\net5.0\RabbitMQ.Client.dll
+E:\workspace\learning\dotnet_project\PlatformService\bin\Debug\net5.0\Google.Protobuf.dll
+E:\workspace\learning\dotnet_project\PlatformService\bin\Debug\net5.0\Grpc.AspNetCore.Server.dll
+E:\workspace\learning\dotnet_project\PlatformService\bin\Debug\net5.0\Grpc.AspNetCore.Server.ClientFactory.dll
+E:\workspace\learning\dotnet_project\PlatformService\bin\Debug\net5.0\Grpc.Core.Api.dll
+E:\workspace\learning\dotnet_project\PlatformService\bin\Debug\net5.0\Grpc.Net.Client.dll
+E:\workspace\learning\dotnet_project\PlatformService\bin\Debug\net5.0\Grpc.Net.ClientFactory.dll
+E:\workspace\learning\dotnet_project\PlatformService\bin\Debug\net5.0\Grpc.Net.Common.dll

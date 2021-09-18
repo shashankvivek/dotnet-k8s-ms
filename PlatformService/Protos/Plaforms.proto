@@ -3,7 +3,7 @@ syntax="proto3";
 option csharp_namespace = "PlatformService";
 
 service GrpcPlatform{
-    rpc GetAllPlatforms(GetAllRequest) return (PlatformResponse);
+    rpc GetAllPlatforms(GetAllRequest) returns (PlatformResponse);
 }
 
 message GetAllRequest {}
