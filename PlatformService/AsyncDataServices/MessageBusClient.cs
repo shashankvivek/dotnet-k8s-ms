@@ -25,9 +25,9 @@ namespace PlatformService.AsyncDataServices
                 _connection = factory.CreateConnection();
                 _channel = _connection.CreateModel();
 
-                _channel.ExchangeDeclare(exchange: "trigger", type: ExchangeType.Fanout);
+                _channel.ExchangeDeclare(exchange: "trigger", type: ExchangeType.Fanout); //TODO: exchange
 
-                _connection.ConnectionShutdown += RabbitMQ_ConnectionShutdown; //TODO: what is +=
+                _connection.ConnectionShutdown += RabbitMQ_ConnectionShutdown;
 
                 Console.WriteLine("--> Connected to MessageBus");
             }
@@ -57,7 +57,7 @@ namespace PlatformService.AsyncDataServices
 
             _channel.BasicPublish(
                 exchange: "trigger", 
-                routingKey: "",
+                routingKey: "",  //TODO: ??
                 basicProperties: null,
                 body: body
             );
